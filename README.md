@@ -2,7 +2,10 @@
 
 ## Topics
 
-The different topics are divided into subdirectories in this repository.
+The different topics are divided into sub-directories in this repository. You can
+work through them in any order you like, and skip those that you feel comfortable
+with already. However, the order in which they are listed is a path through the
+"Webbstuga" that we believe is reasonable.
 
 ### Javascript
 
