@@ -28,7 +28,8 @@ $(function () {
   }
 
   function removeItem($item) {
-    // TODO: Add animation
+    // TODO: Add a class with transition or an animation and then remove the
+    // element.
     $item.remove();
   }
 
