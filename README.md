@@ -6,16 +6,16 @@ The different topics are divided into subdirectories in this repository.
 
 ### Javascript
 
-*   jquery
-*   jquery-underscore-templates-inlined
-*   jasmine (optional)
-*   jasmine-in-memory-api (optional)
-*   jquery-underscore-templates-inlined-and-routing
-*   ajax
-*   ajax-modules-and-namespaces
-*   ajax-modules-and-namespaces-promises
-*   backbone-mocha
-*   backbone-browserify
+*   `jquery`
+*   `jquery-underscore-templates-inlined`
+*   `jasmine` (optional)
+*   `jasmine-in-memory-api` (optional)
+*   `jquery-underscore-templates-inlined-and-routing`
+*   `ajax`
+*   `ajax-modules-and-namespaces`
+*   `ajax-modules-and-namespaces-promises`
+*   `backbone-mocha`
+*   `backbone-browserify`
 
 #### Features to implement in Javascript topics
 
@@ -30,6 +30,6 @@ and see where it leads you.
 
 ### CSS
 
-*   media-queries
-*   transitions-and-animations
+*   `media-queries`
+*   `transitions-and-animations`
 
