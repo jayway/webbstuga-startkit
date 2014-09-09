@@ -1,0 +1,54 @@
+.todo-list {
+  padding: 1rem;
+  margin: 0 0 1rem;
+  background: #eee;
+  box-sizing: border-box;
+}
+
+/**
+ * List header
+ */
+.todo-list .header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+.todo-list .header h2,
+.todo-list .header p {
+  margin: 0;
+  white-space: nowrap;
+}
+.todo-list .header h2 {
+  flex: 1 1 auto;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/**
+ * List items
+ */
+.todo-list ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+.todo-list li {
+  background: #fcc;
+  color: #f22;
+  padding: .5rem;
+}
+.todo-list li.completed {
+  background: #cf9;
+  color: green;
+}
+
+/**
+ * Completed state symbols
+ */
+.todo-list li:before {
+  margin-right: 1rem;
+  content: '✗';
+}
+.todo-list li.completed:before {
+  content: '✓';
+}
