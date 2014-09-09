@@ -1,7 +1,7 @@
-webbstuga-startkit
-==================
+# Jasmine
 
-Using jasmine only (no other way to view the app) and embeds templates inside jasmine's index.html.
+Using Jasmine only (no other way to view the app) and embeds templates inside 
+the Jasmine index.html.
 
 Open `test/index.html` in Chrome to run the tests.
 
