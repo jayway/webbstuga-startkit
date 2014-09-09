@@ -3,16 +3,19 @@ BROWSERIFY = node_modules/.bin/browserify
 
 all: js
 
+node_modules:
+	npm install
+
 $(BEEFY):
 	npm install beefy
 
 $(BROWSERIFY):
 	npm install browserify
 
-js: $(BROWSERIFY)
+js: $(BROWSERIFY) node_modules
 	$(BROWSERIFY) scripts/main.js > scripts/bundle.js
 
-watch: $(BEEFY)
+watch: $(BEEFY) node_modules
 	$(BEEFY) scripts/main.js:scripts/bundle.js --live
 
 
