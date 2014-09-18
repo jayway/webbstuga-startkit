@@ -1,5 +1,9 @@
 # Webbstuga Startkit
 
+## Preparation
+
+Open your developer toolbar and click the settings wheel on the left. Make sure that the checkbox "Disable cache (while DevTools is open)" is checked. It's the first checkbox in the "General" tab.
+
 ## Topics
 
 The different topics are divided into sub-directories in this repository. You can
