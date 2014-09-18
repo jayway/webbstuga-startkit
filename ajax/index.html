@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<!--[if lt IE 7]>      <html class="no-js lt-ie9 lt-ie8 lt-ie7"> <![endif]-->
+<!--[if IE 7]>         <html class="no-js lt-ie9 lt-ie8"> <![endif]-->
+<!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
+    <head>
+        <meta charset="utf-8">
+        <title></title>
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+
+        <link rel="stylesheet" href="css/main.css">
+    </head>
+    <body>
+
+        <div class="container">Your TODOs should go here</div>
+        <div class="template-test-container"></div>
+
+        <p>Open a developer console and type "items" (without quotes) to get access to some stub data</p>
+        <p>Open main.js in an editor</p>
+        <p><strong>NOTE:</strong> The routes are accessed by appending <code>#</code> and the route to the URL, e.g. <code>index.html#/items</code>.</p>
+
+
+        <script src="js/vendor/jquery-1.10.2.min.js"></script>
+        <script src="js/vendor/underscore.js"></script>
+        <script src="js/vendor/director.min.js"></script>
+        <script src="js/main.js"></script>
+        <script src="js/api.js"></script>
+
+
+        <script type="text/template" id="todo-list-template">
+          <h1>The list has <%= items.length %> items</h1>
+          <a href="#/items/1">Go to the item with id 1</a>
+          <a href="#/items/2">Go to the item with id 2</a>
+        </script>
+
+        <script type="text/template" id="todo-item-template">
+          <h1>The first item in the list has the name <%= name %> </h1>
+        </script>
+    </body>
+</html>
