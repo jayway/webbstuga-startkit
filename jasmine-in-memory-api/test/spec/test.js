@@ -15,6 +15,9 @@
             });
 
             it('returns all items', function () {
+                expect(true).toEqual(false, "This is your first failing test"); // TODO Remove
+                return; // TODO Remove
+
                 var items = App.api.getAll();
                 expect(items).toContain(brewBeer);
                 expect(items).toContain(cookDinner);
@@ -26,8 +29,8 @@
                 App.api.clear();
             });
 
-            it('saves the item', function () {
-                var brewBeer = App.api.save({ name: 'Brew Beer' });
+            xit('saves the item', function () {
+               var brewBeer = App.api.save({ name: 'Brew Beer' });
                 var items = App.api.getAll();
                 expect(items).toContain(brewBeer);
             });
@@ -41,7 +44,7 @@
                 brewBeer = App.api.save({ name: 'Brew Beer' });
             });
 
-            it('removes the item if it exists', function (id) {
+            xit('removes the item if it exists', function (id) {
                 var success = App.api.remove(brewBeer.id);
 
                 expect(success).toBe(true);
@@ -50,7 +53,7 @@
                 expect(items).not.toContain(brewBeer);
             });
 
-            it('returns false if the items does not exist', function (id) {
+            xit('returns false if the items does not exist', function (id) {
                 var success = App.api.remove(-1);
 
                 expect(success).toBe(false);
