@@ -15,9 +15,14 @@
         <p>Open a developer console and type "items" (without quotes) to get access to some stub data</p>
         <p>Open main.js in an editor to figure out how the template at the bottom of this file (index.html) is used</p>
 
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-        <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.10.2.min.js"><\/script>')</script>
+        <script type="text/template" id="foo-template">
+          <h1>The first item in the list has the name <%= name %> </h1>
+        </script>Pindex
+
+
+        <script src="js/vendor/jquery-1.10.2.min.js"></script>
         <script src="js/stubs.js"></script>
         <script src="js/main.js"></script>
     </body>
 </html>
+o
