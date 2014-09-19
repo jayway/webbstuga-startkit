@@ -1,6 +1,6 @@
 # Jasmine
 
-Using Jasmine only (no other way to view the app) and embeds templates inside 
+Using Jasmine only (there is no other way to view the app) and embeds templates inside 
 the Jasmine index.html.
 
 Open `test/index.html` in Chrome to run the tests.
