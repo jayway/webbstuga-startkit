@@ -8,7 +8,7 @@ App.api = {
   getCompletedItems: function(){
     //TODO Only return completed items
   },
-  getInProgressItems: function(){
+  getNonCompletedItems: function(){
     //TODO Only return non-completed items
   },
 }
