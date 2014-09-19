@@ -5,8 +5,6 @@ NB! You need to run this in chrome/chromium with --disable-web-security, like th
   chromium --disable-web-security
 Chrome/chroimium can't already be opened when you run this command.
 
-Generated with yeoman, generator h5bp: https://github.com/h5bp/generator-h5bp
-
 Templates are inlined in index.html. Open main.js to find you way.
 This branch supports routing, using director.js
 
