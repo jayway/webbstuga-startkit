@@ -10,4 +10,6 @@ This branch supports routing, using director.js
 
 Stubbed json API responses are stored in /api/
 
-This branch is comes with a tricky task: to be able to filter out completed or in-progress items in api.js.
+
+This exercise is basically just to make your web app a bit prettier, using Bootstrap 3.
+Note that using Bootstrap comes with some caveats. It's not a free lunch. Feel free to ask about the pros and cons of using Bootstrap.
