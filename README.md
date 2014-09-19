@@ -21,6 +21,8 @@ with already. However, the order in which they are listed is a path through the
 *   `ajax`
 *   `ajax-modules-and-namespaces`
 *   `ajax-modules-and-namespaces-promises`
+*   `bootstrap`
+*   `backbone`
 *   `backbone-mocha`
 *   `backbone-browserify`
 
