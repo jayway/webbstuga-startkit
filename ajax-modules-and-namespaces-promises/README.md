@@ -6,8 +6,8 @@ NB! You need to run this in chrome/chromium with --disable-web-security, like th
 Chrome/chroimium can't already be opened when you run this command.
 
 Templates are inlined in index.html. Open main.js to find you way.
-This branch supports routing, using director.js
+This version supports routing, using director.js
 
 Stubbed json API responses are stored in /api/
 
-This branch is comes with a tricky task: to be able to filter out completed or in-progress items in api.js.
+This exercise is comes with a fairly tricky task: to be able to filter out completed or in-progress items in api.js.
