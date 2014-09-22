@@ -10,7 +10,9 @@ App.views.addItemView = (function(){
     load: function(){
       // TODO: This should load whatever the render function needs and return a
       // promise.
-      return $.Deferred().promise();
+      var d = $.Deferred()
+      d.resolve(null);
+      return d.promise();
     },
 
     render: function(){
