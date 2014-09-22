@@ -20,7 +20,7 @@ App.views.showItemList = (function(){
     },
 
     loadAndRender: function() {
-      this.load().done(this.render)
+      this.load().done(this.render);
     }
   });
 }());

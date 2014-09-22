@@ -1,14 +1,14 @@
 
 window.App = {
-  views: {} 
+  views: {}
 };
 
 
 $(function(){
   var routes = {
-    '/': function() { 
-      var view = new App.views.showItemList; 
-      view.loadAndRender() 
+    '/': function() {
+      var view = new App.views.showItemList;
+      view.loadAndRender();
     },
     '/items/': App.views.showItemList,
     '/items/:id': App.views.showItem
