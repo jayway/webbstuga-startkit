@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Backbone Dropdown</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="container">
+      <div class="row">
+        <h1>Backbone Dropdown</h1>
+
+        <p>When adding an item in this app you should be able to pick a
+        <em>Priority</em>.</p>
+
+        <h2>Tasks</h2>
+        
+        <ol>
+          <li>Add API calls and rendering to <code>js/views/addItemView.js</code>
+          so that the <code>&lt;select&gt;</code> contains the priority options.</li>
+
+          <li>Use the <code>App.api.getUserSettings</code> to obtain the user settings
+          and use the <code>defaultPriority</code> field to preselect that priority
+          in the form. This requiries you to load <strong>both</strong> the priorities
+          and the settings before rendering the form. Have a look at
+          <a href="https://github.com/kriskowal/q#combination">Q.all</a>.</li>
+        </ol>
+
+        <div class="template-container"></div>
+      </div>
+    </div>
+
+    <script type="text/template" id="add-item-template">
+      <!-- TODO: Add a form here with a <select> element -->
+    </script>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/vendor/bootstrap.min.js"></script>
+    <script src="js/vendor/underscore-min.js"></script>
+    <script src="js/vendor/backbone-min.js"></script>
+    <script src="js/vendor/director.min.js"></script>
+    <script src="js/vendor/q.js"></script>
+    <script src="js/plugins.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/api.js"></script>
+    <script src="js/views/addItemView.js"></script>
+
+  </body>
+</html>
