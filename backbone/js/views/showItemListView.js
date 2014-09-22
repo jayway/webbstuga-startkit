@@ -16,7 +16,7 @@ App.views.showItemList = (function(){
     render: function(){
       var template = $("#todo-list-template").text(); 
       var rendered = _.template(template, {items: this.items}); // Uses this.items
-      $(".template-test-container").html(rendered);
+      $(".template-container").html(rendered);
     },
 
     loadAndRender: function() {

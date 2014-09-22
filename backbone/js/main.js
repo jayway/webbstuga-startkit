@@ -15,6 +15,6 @@ $(function(){
   };
 
   var router = Router(routes);
-  router.init();
+  router.init('/');
 
 });
