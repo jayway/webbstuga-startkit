@@ -10,7 +10,7 @@ App.views.addItemView = (function(){
     load: function(){
       // TODO: This should load whatever the render function needs and return a
       // promise.
-      return Q();
+      return $.Deferred().promise();
     },
 
     render: function(){
@@ -23,7 +23,7 @@ App.views.addItemView = (function(){
     },
 
     loadAndRender: function() {
-      this.load().then(this.render);
+      this.load().done(this.render);
     }
   });
 }());
