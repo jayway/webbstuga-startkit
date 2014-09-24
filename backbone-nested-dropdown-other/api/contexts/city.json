@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Grocery store",
+    "value": "grocery"
+  },
+  {
+    "name": "Coffee specialist",
+    "value": "coffee"
+  },
+  {
+    "name": "Bakery",
+    "value": "bakery"
+  }
+]
