@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Backbone auto save</title>
+
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <h1>Backbone auto save</h1>
+
+    <p>The intent of this exercise is to look at auto saving a form. It is based on the "Backbone on change" exercise</p>
+
+    <p><em>This exercise is not supposed to actually save
+    anything.</em></p>
+
+    <h2>Tasks</h2>
+
+    <ol>
+      <li>When the user changes the name, instead of just chaning the view header, do a POST (which will fail, but that is not the point).</li>
+      <li>Think about the performance consequences for saving on each keystroke. Then, look at underscore.js' functions <a href="http://underscorejs.org/#debounce">debounce</a> and <a href="http://underscorejs.org/#throttle">throttle</a>. Which one of them do you think is the most fitting for your needs.</li>
+      <li>Now, implement auto save for all the form fields.</li>
+    </ol>
+
+
+    <div class="template-container"></div>
+
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/vendor/bootstrap.min.js"></script>
+    <script src="js/vendor/underscore-min.js"></script>
+    <script src="js/vendor/backbone-min.js"></script>
+    <script src="js/vendor/director.min.js"></script>
+    <script src="js/vendor/q.js"></script>
+    <script src="js/plugins.js"></script>
+    <script src="js/main.js"></script>
+    <script src="js/api.js"></script>
+    <script src="js/views/showItemListView.js"></script>
+    <script src="js/views/showItemView.js"></script>
+
+    <script type="text/template" id="todo-list-template">
+      <h1>The list has <%= items.length %> items</h1>
+      <a href="#/items/1">Go to the item with id 1</a>
+      <a href="#/items/2">Go to the item with id 2</a>
+    </script>
+
+    <script type="text/template" id="todo-item-template">
+      <h1>The first item in the list has the name <%= name %> </h1>
+    </script>
+
+  </body>
+</html>
