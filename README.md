@@ -27,14 +27,14 @@ and see where it leads you.
 
 #### Part 1
 
-*   `jquery`
-*   `jquery-underscore-templates-inlined`
-*   `jasmine` (optional)
-*   `jasmine-in-memory-api` (optional)
-*   `jquery-underscore-templates-inlined-and-routing`
-*   `ajax`
-*   `ajax-modules-and-namespaces`
-*   `ajax-modules-and-namespaces-promises`
+*   [`jquery`](jquery)
+*   [`jquery-underscore-templates-inlined`](jquery-underscore-templates-inlined)
+*   [`jasmine`](jasmine) (optional)
+*   [`jasmine-in-memory-api`](jasmine) (optional)
+*   [`jquery-underscore-templates-inlined-and-routing`](jasmine)
+*   [`ajax`](ajax)
+*   [`ajax-modules-and-namespaces`](ajax-modules-and-namespaces)
+*   [`ajax-modules-and-namespaces-promises`](ajax-modules-and-namespaces)
 
 #### Part 2
 
