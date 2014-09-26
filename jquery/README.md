@@ -7,3 +7,8 @@
 * You should replace the inner content of the `div` with the class container with
   "your stuff".
 
+## Links
+
+http://api.jquery.com/html/#html2
+http://api.jquery.com/class-selector/
+http://api.jquery.com/id-selector/
