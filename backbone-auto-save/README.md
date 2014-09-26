@@ -1,4 +1,4 @@
-webbstuga-startkit
+Backbone "auto save"
 ==================
 
 NB! You need to run this in chrome/chromium with --disable-web-security, like this
