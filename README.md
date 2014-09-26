@@ -11,22 +11,7 @@ work through them in any order you like, and skip those that you feel comfortabl
 with already. However, the order in which they are listed is a path through the
 "Webbstuga" that we believe is reasonable.
 
-### Javascript
-
-*   `jquery`
-*   `jquery-underscore-templates-inlined`
-*   `jasmine` (optional)
-*   `jasmine-in-memory-api` (optional)
-*   `jquery-underscore-templates-inlined-and-routing`
-*   `ajax`
-*   `ajax-modules-and-namespaces`
-*   `ajax-modules-and-namespaces-promises`
-*   `bootstrap`
-*   `backbone`
-*   `backbone-mocha`
-*   `backbone-browserify`
-
-#### Features to implement in Javascript topics
+### Features to implement in Javascript topics
 
 These features are not applicable to all topics, but try to implement them
 and see where it leads you.
@@ -36,6 +21,37 @@ and see where it leads you.
 3.  Input for adding new items (optional)
 4.  Click items to toggle completed state (optional)
 5.  Remove item when click a "trash button" (optional)
+
+
+### Javascript
+
+#### Part 1
+
+*   `jquery`
+*   `jquery-underscore-templates-inlined`
+*   `jasmine` (optional)
+*   `jasmine-in-memory-api` (optional)
+*   `jquery-underscore-templates-inlined-and-routing`
+*   `ajax`
+*   `ajax-modules-and-namespaces`
+*   `ajax-modules-and-namespaces-promises`
+
+#### Part 2
+
+*   `bootstrap`
+*   `backbone`
+*   `backbone-dropdown`
+*   `backbone-nested-dropdown`
+*   `backbone-nested-dropdown-other`
+*   `backbone-on-change`
+*   `backbone-auto-save`
+
+
+#### Part 3
+
+*   `backbone-mocha`
+*   `backbone-browserify`
+
 
 ### CSS
 
