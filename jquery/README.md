@@ -7,6 +7,11 @@
 * You should replace the inner content of the `div` with the class container with
   "your stuff".
 
+Try to list the items, indicating in some way (true/false is ok) if they are completed or not.
+When that is done, ask yourself: "what would be the implications of using only jQuery for a JS client?"
+
+In [the next exercise](../jquery-underscore-templates-inlined) you'll learn a better technique for generating strings to insert in the DOM.
+
 ## Links
 
 http://api.jquery.com/html/#html2
