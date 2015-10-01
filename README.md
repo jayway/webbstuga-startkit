@@ -2,14 +2,16 @@
 
 ## Preparation
 
-Open your developer toolbar and click the settings wheel on the left. Make sure that the checkbox "Disable cache (while DevTools is open)" is checked. It's the first checkbox in the "General" tab.
+Open your developer toolbar and click the settings wheel on the left. Make sure
+that the checkbox "Disable cache (while DevTools is open)" is checked. It's the
+first checkbox in the "General" tab.
 
 ## Topics
 
-The different topics are divided into sub-directories in this repository. You can
-work through them in any order you like, and skip those that you feel comfortable
-with already. However, the order in which they are listed is a path through the
-"Webbstuga" that we believe is reasonable.
+The different topics are divided into sub-directories in this repository. You
+can work through them in any order you like, and skip those that you feel
+comfortable with already. However, the order in which they are listed is a path
+through the "Webbstuga" that we believe is reasonable.
 
 ### Features to implement in Javascript topics
 
@@ -38,20 +40,12 @@ and see where it leads you.
 
 #### Part 2
 
-*   `bootstrap`
-*   `backbone`
-*   `backbone-dropdown`
-*   `backbone-nested-dropdown`
-*   `backbone-nested-dropdown-other`
-*   `backbone-on-change`
-*   `backbone-auto-save`
-
-
-#### Part 3
-
-*   `backbone-mocha`
-*   `backbone-browserify`
-
+*   [`backbone`](backbone)
+*   [`backbone-dropdown`](backbone-dropdown)
+*   [`backbone-nested-dropdown`](backbone-nested-dropdown)
+*   [`backbone-nested-dropdown-other`](backbone-nested-dropdown-other)
+*   [`backbone-on-change`](backbone-on-change)
+*   [`backbone-auto-save`](backbone-auto-save)
 
 ### CSS
 
