@@ -8,4 +8,10 @@ Open `test/index.html` in Chrome to run the tests.
 Try adding the features and test them against the DOM.
 
 ## Links
+
 http://jasmine.github.io/1.3/introduction.html
+
+## Next Exercise(s)
+
+[`jasmine-in-memory-api`](jasmine) (optional)
+[`jquery-underscore-templates-inlined-and-routing`](jquery-underscore-templates-inlined-and-routing)

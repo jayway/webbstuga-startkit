@@ -21,3 +21,7 @@ This exaxmple supports routing, using
 [director.js](https://github.com/flatiron/director).
 
 Stubbed JSON API responses are stored as files in `/api/`.
+
+## Next Exercise
+
+[`ajax-modules-and-namespaces`](ajax-modules-and-namespaces)

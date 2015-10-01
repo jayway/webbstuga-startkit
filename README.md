@@ -33,7 +33,7 @@ and see where it leads you.
 *   [`jquery-underscore-templates-inlined`](jquery-underscore-templates-inlined)
 *   [`jasmine`](jasmine) (optional)
 *   [`jasmine-in-memory-api`](jasmine) (optional)
-*   [`jquery-underscore-templates-inlined-and-routing`](jasmine)
+*   [`jquery-underscore-templates-inlined-and-routing`](jquery-underscore-templates-inlined-and-routing)
 *   [`ajax`](ajax)
 *   [`ajax-modules-and-namespaces`](ajax-modules-and-namespaces)
 *   [`ajax-modules-and-namespaces-promises`](ajax-modules-and-namespaces)
@@ -46,9 +46,3 @@ and see where it leads you.
 *   [`backbone-nested-dropdown-other`](backbone-nested-dropdown-other)
 *   [`backbone-on-change`](backbone-on-change)
 *   [`backbone-auto-save`](backbone-auto-save)
-
-### CSS
-
-*   `media-queries`
-*   `transitions-and-animations`
-

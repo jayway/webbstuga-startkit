@@ -11,3 +11,9 @@ This version supports routing, using director.js
 Stubbed json API responses are stored in /api/
 
 This exercise is comes with a fairly tricky task: to be able to filter out completed or in-progress items in api.js.
+
+## Next Exercise
+
+**You've completed Part 1!**
+
+Next is [`backbone`](backbone).

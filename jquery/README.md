@@ -17,3 +17,7 @@ In [the next exercise](../jquery-underscore-templates-inlined) you'll learn a be
 http://api.jquery.com/html/#html2
 http://api.jquery.com/class-selector/
 http://api.jquery.com/id-selector/
+
+## Next Exercise
+
+[`jquery-underscore-templates-inlined`](jquery-underscore-templates-inlined)

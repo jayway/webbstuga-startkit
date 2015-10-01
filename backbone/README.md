@@ -10,3 +10,7 @@ Here, we a small fraction of backbone's functionality. Basically, we use it for 
 In this exercise, we have started to refactor showItemListView.js in views/ and your tasks are 
   - fix the TODO in showItemListView.js
   - finish the refactoring, i.e. refactor showItemView.js and main.js
+
+## Next Exercise
+
+[`backbone-dropdown`](backbone-dropdown)

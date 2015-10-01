@@ -11,5 +11,10 @@ This exercise adds routing, using [director.js](https://github.com/flatiron/dire
 Copy and paste your code from the previous exercises to fit into the structure of this example. **And make sure understand why using links (and routing) is a good way to deal with state in web apps**
 
 ## Links
+
 https://github.com/flatiron/director
 http://stackoverflow.com/a/10076125
+
+## Next Exercise
+
+[`ajax`](ajax)
