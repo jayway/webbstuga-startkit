@@ -1,5 +1,13 @@
 # jQuery
 
+Historically jQuery has been very influental in web development. The main thing
+it does is providing a uniform way of querying and manipulating the [DOM](
+https://en.wikipedia.org/wiki/Document_Object_Model), abstracting away the
+different APIs and quirks in the major web browsers. Queries use a
+[CSS-selector-like syntax](https://api.jquery.com/category/selectors/).
+
+## Steps
+
 * Open `index.html` in Chrome
 * Your Javascript code should be located in `main.js` (this file is imported in
   index.html)
@@ -14,9 +22,9 @@ In [the next exercise](../jquery-underscore-templates-inlined) you'll learn a be
 
 ## Links
 
-http://api.jquery.com/html/#html2
-http://api.jquery.com/class-selector/
-http://api.jquery.com/id-selector/
+* http://api.jquery.com/html/#html2
+* http://api.jquery.com/class-selector/
+* http://api.jquery.com/id-selector/
 
 ## Next Exercise
 
