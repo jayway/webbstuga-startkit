@@ -36,7 +36,7 @@ and see where it leads you.
 *   [`jquery-underscore-templates-inlined-and-routing`](jquery-underscore-templates-inlined-and-routing)
 *   [`ajax`](ajax)
 *   [`ajax-modules-and-namespaces`](ajax-modules-and-namespaces)
-*   [`ajax-modules-and-namespaces-promises`](ajax-modules-and-namespaces)
+*   [`ajax-modules-and-namespaces-promises`](ajax-modules-and-namespaces-promises)
 
 #### Part 2
 

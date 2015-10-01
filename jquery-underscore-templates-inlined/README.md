@@ -9,6 +9,6 @@ http://underscorejs.org/#template
 
 ## Next Exercise(s)
 
-[`jasmine`](jasmine) (optional)
-[`jasmine-in-memory-api`](jasmine) (optional)
-[`jquery-underscore-templates-inlined-and-routing`](jquery-underscore-templates-inlined-and-routing)
+* [`jasmine`](jasmine) (optional)
+* [`jasmine-in-memory-api`](jasmine) (optional)
+* [`jquery-underscore-templates-inlined-and-routing`](jquery-underscore-templates-inlined-and-routing)

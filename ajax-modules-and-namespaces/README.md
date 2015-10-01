@@ -6,4 +6,4 @@ In this exercise, we have created a simple module system here and your task is t
 
 ## Next Exercise
 
-[`ajax-modules-and-namespaces-promises`](ajax-modules-and-namespaces)
+[`ajax-modules-and-namespaces-promises`](ajax-modules-and-namespaces-promises)
