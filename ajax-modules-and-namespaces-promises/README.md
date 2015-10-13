@@ -30,7 +30,7 @@ items.done(function (response) {
 });
 ```
 
-## Description
+## The Exercise
 
 This exercise is comes with a fairly tricky task: to be able to filter out
 completed or in-progress items in [api.js](js/api.js). As a bonus you could

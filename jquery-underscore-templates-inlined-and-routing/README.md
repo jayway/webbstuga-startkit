@@ -11,7 +11,7 @@ full post on Stack Overflow linked below.
 >
 > http://stackoverflow.com/a/10076125
 
-## Description
+## The Exercise
 
 **This exercise builds on
 [the jQuery templates inlined exercise](../jquery-templates-inlined).**

@@ -6,7 +6,7 @@ https://en.wikipedia.org/wiki/Document_Object_Model), abstracting away the
 different APIs and quirks in the major web browsers. Queries use a
 [CSS-selector-like syntax](https://api.jquery.com/category/selectors/).
 
-## Steps
+## The Exercise
 
 * Open `index.html` in Chrome
 * Your Javascript code should be located in `main.js` (this file is imported in

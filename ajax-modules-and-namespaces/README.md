@@ -3,7 +3,7 @@
 Having our functions and objects directly on the window object is bad practice,
 basically since names can collide.
 
-## Description
+## The Exercise
 
 In this exercise, we have created a simple module system here and your task is
 to move your own code into the proper places.

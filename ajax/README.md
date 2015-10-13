@@ -9,7 +9,7 @@ here, the data needs to be fetched with Javascript. In the browser these types
 of requests is usually called *AJAX*, short for *Asynchronous Javascript and
 XML* (don't worry, XML is not required).
 
-## Cross-origin requests
+## Cross-Origin Requests
 
 Due to security concerns modern browsers disallow cross-origin requests by
 default. There are a couple ways to solve this...
@@ -23,6 +23,8 @@ like this:
 
 **Chrome/Chromium can't already be opened when you run this command for it to
 take effect.**
+
+## The Exercise
 
 Templates are inlined in `index.html`. Edit `main.js` to get started.
 

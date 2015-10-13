@@ -9,7 +9,7 @@ application renders the correct content.
 to the structure of rendered HTML, making the implementation hard to change
 without breaking tests.
 
-## Description
+## The Exercise
 
 This exercise uses Jasmine only (there is no other way to view the app) and
 embeds templates inside the Jasmine [index.html](test/index.html).
