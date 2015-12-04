@@ -1,8 +1,6 @@
 # Backbone Nested Dropdown with "other" field
 
-NB! You need to run this in chrome/chromium with --disable-web-security, like this
-  chromium --disable-web-security
-Chrome/chroimium can't already be opened when you run this command.
+
 
 ## Goals
 
