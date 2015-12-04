@@ -21,32 +21,6 @@
       <div class="row">
         <h1>Backbone Dropdown</h1>
 
-        <p>When adding an item in this app you should be able to pick a
-        <em>Priority</em>.</p>
-
-        <p><em>This exercise is not supposed to actually save
-        anything, the view Javascript and form rendering is the focus.</em></p>
-
-        <h2>Tasks</h2>
-
-        <ol>
-          <li>Add API calls and rendering to <code>js/views/addItemView.js</code>
-          so that the <code>&lt;select&gt;</code> contains the priority options.</li>
-
-          <li>Convert the jQuery promises to A+ using Q. More information on how
-          <a href="https://github.com/kriskowal/q/wiki/Coming-from-jQuery#converting-jquery-promises-to-q">here</a>.
-          The reason for this is to use a <em>Promise A+</em> compliant library,
-          like Q. jQuery has some stuff that we could use but its promises
-          <a href="http://thewayofcode.wordpress.com/2013/01/22/javascript-promises-and-why-jquery-implementation-is-broken/">are broken</a>.
-          Let's not mess around with broken stuff more than we have to.</li>
-
-          <li>Use the <code>App.api.getUserSettings</code> to obtain the user settings
-          and use the <code>defaultPriority</code> field to preselect that priority
-          in the form. This requiries you to load <strong>both</strong> the priorities
-          and the settings before rendering the form. Have a look at
-          <a href="https://github.com/kriskowal/q#combination">Q.all</a>.</li>
-        </ol>
-
         <div class="template-container"></div>
       </div>
     </div>
