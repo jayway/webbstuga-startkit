@@ -2,7 +2,7 @@
 
 Welcome to the Webbstuga Startkit! We're happy that you want to learn more about web development :)
 
-The three big web technologies are HTML, CSS and JavaScript. One way to think of them is that HTML is the content, CSS is the styling and JavaScript is dynamic behavior (traditionally).
+The three big web technologies are HTML, CSS, and JavaScript. One way to think of them is that HTML is the content, CSS is the styling, and JavaScript is dynamic behavior (traditionally).
 
 There are two entry points in this course. The first one is to learn more about HTML and CSS, using external sources (linked below). The other one is to learn more about the history of JavaScript. You can also iterate between these two entry points, if you want to.
 
