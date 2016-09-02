@@ -21,6 +21,8 @@ Here is a small collection of external sources to learn more about HTML and CSS.
 
 We at Jayway think it's important to know some history on JavaScript development, since many frameworks/libraries are solution to past problems. We want to know more about the history to see if we actually have these problems that the solutions solve (otherwise, we have waste). Also, we don't want to repeat anti-patterns from history, like having a big [Single-Page Application](https://en.wikipedia.org/wiki/Single-page_application) (SPA) without a single [hash route](http://cdnjs.com/libraries/backbone.js/tutorials/what-is-a-router). Some even say that developing a big SPA is an anti-pattern in itself. Our opinion of "SPA vs server-side web" is: it depends! It's better to know both sides of the coin.
 
+First, you should probably checkout this introduction course on JavaScript and web development: [http://watchandcode.com/courses/practical-javascript](http://watchandcode.com/courses/practical-javascript)
+
 ### Preparation
 
 Open your developer toolbar and click the settings wheel on the left. Make sure
