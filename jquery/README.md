@@ -28,4 +28,4 @@ In [the next exercise](../jquery-underscore-templates-inlined) you'll learn a be
 
 ## Next Exercise
 
-[`jquery-underscore-templates-inlined`](jquery-underscore-templates-inlined)
+[`../jquery-underscore-templates-inlined`](jquery-underscore-templates-inlined)
