@@ -25,5 +25,5 @@ http://jasmine.github.io/1.3/introduction.html
 
 ## Next Exercise(s)
 
-* [`jasmine-in-memory-api`](jasmine) (optional)
-* [`jquery-underscore-templates-inlined-and-routing`](jquery-underscore-templates-inlined-and-routing)
+* [`jasmine-in-memory-api`](../jasmine-in-memory-api) (optional)
+* [`jquery-underscore-templates-inlined-and-routing`](../jquery-underscore-templates-inlined-and-routing)

@@ -21,4 +21,4 @@ _This exercise is not supposed to actually save anything, the view Javascript an
 
 ## Next Exercise
 
-[`backbone-nested-dropdown-other`](backbone-nested-dropdown-other)
+[`backbone-nested-dropdown-other`](../backbone-nested-dropdown-other)

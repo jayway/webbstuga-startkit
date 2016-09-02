@@ -18,4 +18,4 @@ When adding an item in this app you should be able to pick a *Priority*.
 
 The next exercises will focus on common real-world problems. Some of these are problems that other libraries solve in a better way that Backbone, but we still think it's important that you know how these problems are solved without more modern libraries than Backbone.
 
-[`backbone-nested-dropdown`](backbone-nested-dropdown)
+[`backbone-nested-dropdown`](../backbone-nested-dropdown)

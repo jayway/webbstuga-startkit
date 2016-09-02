@@ -10,4 +10,4 @@ to move your own code into the proper places.
 
 ## Next Exercise
 
-[`ajax-modules-and-namespaces-promises`](ajax-modules-and-namespaces-promises)
+[`ajax-modules-and-namespaces-promises`](../ajax-modules-and-namespaces-promises)

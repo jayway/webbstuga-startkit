@@ -64,4 +64,4 @@ Try rewriting you code using `.then` instead of `.done`.
 
 **You've completed Part 1!**
 
-Next is [`backbone`](backbone).
+Next is [`backbone`](../backbone).

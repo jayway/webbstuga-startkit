@@ -29,4 +29,4 @@ http://stackoverflow.com/a/10076125
 
 ## Next Exercise
 
-[`ajax`](ajax)
+[`ajax`](../ajax)

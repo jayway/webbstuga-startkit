@@ -11,4 +11,4 @@ _This exercise is not supposed to actually save anything._
 
 ## Next Exercise
 
-[`backbone-auto-save`](backbone-auto-save)
+[`backbone-auto-save`](../backbone-auto-save)

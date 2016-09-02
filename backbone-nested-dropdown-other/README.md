@@ -11,4 +11,4 @@ _This exercise is not supposed to actually save anything, the view Javascript an
 
 ## Next Exercise
 
-[`backbone-on-change`](backbone-on-change)
+[`backbone-on-change`](../backbone-on-change)

@@ -10,4 +10,4 @@ In this exercise, we have started to refactor showItemListView.js in views/ and 
 
 ## Next Exercise
 
-[`backbone-dropdown`](backbone-dropdown)
+[`backbone-dropdown`](../backbone-dropdown)
