@@ -12,6 +12,7 @@ When you have completed the JavaScript labs and feel confident in HTML and CSS, 
 
 Here is a small collection of external sources to learn more about HTML and CSS.
 
+- [https://www.freecodecamp.com/challenges/say-hello-to-html-elements](https://www.freecodecamp.com/challenges/say-hello-to-html-elements)
 - [https://www.codecademy.com/tracks/web](https://www.codecademy.com/tracks/web)
 - [https://www.khanacademy.org/computing/computer-programming/html-css](https://www.codecademy.com/tracks/web)
 - [http://www.pluralsight.com/courses/html5css3-upgrade](http://www.pluralsight.com/courses/html5css3-upgrade)
